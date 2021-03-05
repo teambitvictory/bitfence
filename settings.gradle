@@ -1,0 +1,2 @@
+rootProject.name = "Bitfence"
+include ':app'
