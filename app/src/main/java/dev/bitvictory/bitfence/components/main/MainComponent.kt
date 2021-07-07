@@ -17,7 +17,6 @@ import androidx.navigation.NavController
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import androidx.navigation.compose.navigate
 import dev.bitvictory.bitfence.MainViewModel
 import dev.bitvictory.bitfence.components.eventcomponent.EventList
 import dev.bitvictory.bitfence.components.locationcomponent.LocationList

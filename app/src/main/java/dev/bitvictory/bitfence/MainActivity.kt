@@ -4,7 +4,6 @@ import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.compose.material.*
-import androidx.navigation.compose.rememberNavController
 import dev.bitvictory.bitfence.ui.theme.GeofenceDemoTheme
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.InternalCoroutinesApi
@@ -16,6 +15,7 @@ import dev.bitvictory.bitfence.geofence.*
 import kotlinx.coroutines.flow.StateFlow
 import android.location.LocationManager
 import androidx.activity.compose.setContent
+import androidx.navigation.compose.rememberNavController
 import dev.bitvictory.bitfence.components.main.MainComponent
 
 
